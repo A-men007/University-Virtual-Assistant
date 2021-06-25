@@ -1,3 +1,0 @@
-
-compile with: g++ main.cpp -o test
-to run: ./test
